@@ -9,6 +9,8 @@ assignees: ''
 
 ## 🐞 Bug Report
 
+### ```Module: (Backend ou Frontend)```
+
 **Descrição**
 Explique o problema de forma clara e objetiva.
 

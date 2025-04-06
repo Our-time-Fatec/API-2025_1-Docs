@@ -9,6 +9,8 @@ assignees: ''
 
 ## 🚀 Feature
 
+### ```Module: (Backend ou Frontend)```
+
 **Descrição**
 Explique brevemente a funcionalidade desejada e sua motivação.
 

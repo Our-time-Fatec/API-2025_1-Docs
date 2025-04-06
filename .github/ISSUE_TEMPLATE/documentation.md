@@ -9,6 +9,8 @@ assignees: ''
 
 ## 📖 Documentação
 
+### ```Module: (Backend, Frontend ou Full)```
+
 **Descrição**
 Explique qual parte da documentação precisa ser criada ou melhorada.
 
